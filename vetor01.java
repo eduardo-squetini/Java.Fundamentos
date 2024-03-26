@@ -1,18 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package aula08_vetor01;
 import java.util.Scanner;
-/**
- *
- * @author Eduardo
- */
+
 public class Vetor {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         
         //fazer um software que receba tres notas e faça a media aritmetica
@@ -44,12 +34,7 @@ public class Vetor {
         notas[3] = notas[0]*0.3+notas[1]*0.3+notas[2]*0.4;
         System.out.println("Nota Final= " + notas[3]);
         
-        
-        
-        
-        
-        
-        // TODO code application logic here
+
     }
     
 }
