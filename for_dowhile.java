@@ -1,18 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package aula_07;
 import java.util.Scanner;
-/**
- *
- * @author Eduardo
- */
+
 public class for_dowhile {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         
         //for testa primeiro antes de executar portanto AQUI nn rodará nada
@@ -54,7 +44,6 @@ public class for_dowhile {
             i++;
             
         }while(i<=10);
-        // TODO code application logic here
         
        
     }
